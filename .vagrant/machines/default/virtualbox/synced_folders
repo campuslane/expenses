@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/expenses":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/expenses","hostpath":"/Users/Kate/Sites/expenses","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Kate/Sites/expenses","disabled":false}}}
